@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/alex-vido/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2da968&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render-sigma-five.vercel.app/api?type=waving&color=2da968&height=120&section=footer"/>
   
   ![Snake animation](https://github.com/alex-vido/alex-vido/blob/output/github-contribution-grid-snake.svg)
   
